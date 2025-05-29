@@ -1,3 +1,6 @@
 echo "atm" >> .gitignore
 echo "*.o" >> .gitignore
 echo "*.ppu" >> .gitignore
+MattisATM_Final
+MattisATM_Final.o
+.vscode/
