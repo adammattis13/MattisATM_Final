@@ -46,3 +46,6 @@ Make sure accounts.txt is in the same directory!
 
 🧑‍🏫 Credit: Created by Adam Mattis, submitted as part of the 1997 final project for Mr. Julio’s computer programming class.
 Modernized slightly for Git and Free Pascal on macOS. 😎
+
+![Built in 1997](assets/built-1997.svg)
+![Runs in 2025](assets/runs-2025.svg)
